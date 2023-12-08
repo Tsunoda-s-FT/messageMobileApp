@@ -1,4 +1,4 @@
-# messageMobileApp
+# MessageMobileApp
 
 ### モバイルアプリケーションの概要
 
